@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3LqGQ1c+BumHKaJH+W2tKNdPzLmSY597GCa9Utr0s6s=",
+  "Source": "CheckWallet",
+  "BasePath": "_content/CheckWallet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
